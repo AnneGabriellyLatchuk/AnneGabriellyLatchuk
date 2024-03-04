@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/0ec36e457d416af3620724c13c547a49.gif" width="150" height="150" border="0" align="right" alt="gif_Anne" /></a><br/>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/713f4565a6f76292d61c02b54921dfc7.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
 </div>
 
 
